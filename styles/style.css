@@ -208,7 +208,7 @@ ul li:before {
       rgba(225, 86, 16, 0.344),
       rgba(212, 147, 90, 0.473)
     ),
-    url(/images/coding.png);
+    url(../images/coding.png);
   width: 100%;
   height: 460px;
   position: absolute;
