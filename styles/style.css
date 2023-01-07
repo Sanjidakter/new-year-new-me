@@ -159,7 +159,7 @@ ul li:before {
       rgba(238, 85, 9, 0.344),
       rgba(193, 183, 175, 0)
     ),
-    url("/images/watch.png");
+    url("../images/watch.png");
   margin-left: 230px;
   width: 70%;
   height: 300px;
